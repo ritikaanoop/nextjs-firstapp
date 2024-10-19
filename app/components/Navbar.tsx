@@ -12,6 +12,9 @@ const Navbar = () => {
           <Link href="/ritika" className="hover:text-gray-300">
             Secret Page
           </Link>
+          <Link href="/dumbass" className="hover:text-gray-300">
+            Counter
+          </Link>
         </div>
       </div>
     </nav>
