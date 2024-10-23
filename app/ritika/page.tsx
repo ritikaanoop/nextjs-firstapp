@@ -7,7 +7,7 @@ export default function Ritika() {
         <h1 className="text-4xl font-bold text-pink-400">Why are you even here?</h1>
         <Link href="/">
           <button className="mt-6 bg-pink-400 text-white px-4 py-2 rounded">
-            Go Back to Ganjedi Page
+            Go Back to Home Page
           </button>
         </Link>
       </div>
